@@ -16,6 +16,12 @@ A responsive, customizable QR code generator built with **React**, **React Boots
 
 ---
 
+## 🌐 Live Demo
+
+['Live Demo'](https://react-qrcode-olive.vercel.app/)
+
+---
+
 ## 🖼️ Preview
 
 ![Desktop Preview](./public/screenshots/desktop.png)
@@ -79,11 +85,6 @@ npm run dev
 - 🔁 Convert to PWA (installable)
 - 🌓 Add dark mode toggle
 - 📱 Drag-and-drop mobile UI enhancements
-
----
-
-## 🌐 Live Demo
-Coming soon on Vercel or Netlify
 
 ---
 
